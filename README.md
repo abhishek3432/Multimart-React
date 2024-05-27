@@ -1,9 +1,9 @@
 # Maltimart Ecommerce
 
-## 📌 Live Demo
+##  Live Demo
 https://multimart-ecommerce.onrender.com
 
-## 😎 Features
+##  Features
 
 - Beauty UI similar to ecommerce website
 - Fully responsive and mobile friendly
@@ -43,6 +43,4 @@ $ npm install
 
 # Start development server
 $ npm start
-```
-👨‍💻 Happy coding!
----
+
